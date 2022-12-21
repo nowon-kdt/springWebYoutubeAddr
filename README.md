@@ -18,24 +18,24 @@
 ## 16 https://youtu.be/rWzL9ehcJV0
 ## 17 https://youtu.be/zWNPHQclTaQ
 ## 18 https://youtu.be/63A3F7bNjcM
-## 19
-## 20
-## 21
-## 22
-## 23
-## 24
-## 25
-## 26
-## 27
-## 28
-## 29
-## 30
-## 31
-## 32
-## 33
-## 34
-## 35
-## 36
-## 37
-## 38
+## 19 https://youtu.be/JNNy671siFw
+## 20 https://youtu.be/4zzcXRs7Akw
+## 21 https://youtu.be/SJD-Y4fapgI
+## 22 https://youtu.be/qdxOuNdZMx8
+## 23 https://youtu.be/Ig-IliBn6XM
+## 24 https://youtu.be/vzyrgxyU3Jg
+## 25 https://youtu.be/jbf0JlZk5ew
+## 26 https://youtu.be/YMrxBL38LnA
+## 27 https://youtu.be/4Bo2ikjeB5M
+## 28 https://youtu.be/Px294ZNWlao
+## 29 https://youtu.be/qG8_ARIBQKs
+## 30 https://youtu.be/yZQOH6PCEpY
+## 31 https://youtu.be/5UGPj8zJUTM
+## 32 https://youtu.be/aq4W3g2jwDQ
+## 33 https://youtu.be/VOor7CgrHhQ
+## 34 https://youtu.be/cXA223j6G8Y
+## 35 https://youtu.be/kNlFlPv12Hs
+## 36 https://youtu.be/NJcIFcSeuOg
+## 37 https://youtu.be/OjWSmQyTI3I
+## 38 https://youtu.be/uF8BhE_FXrc
 ## 39
