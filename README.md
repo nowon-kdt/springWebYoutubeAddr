@@ -48,15 +48,15 @@
 ## 46 https://youtu.be/BIjz96ey0Hk sprimgBoot 쇼핑몰구현 46 주소입력 페이지구현 다음api활용하기
 ## 47 https://youtu.be/FI5-MDu5vh4 sprimgBoot 쇼핑몰구현 47 배송지Entity 구현하고 ajax로 form데이터 전송하여 DB저장하기
 ## 48 https://youtu.be/Qw-U65fvpkg sprimgBoot 쇼핑몰구현 48 기본배송지구현하하기 위해 Entity 수정후 처리
-## 49 https://youtu.be/5CDu1hNwQQk
-## 50 https://youtu.be/cC7G8qX61aA
-## 51 https://youtu.be/IqnarjswWEY
-## 52 https://youtu.be/Tl7mmrWnX1A
-## 53 https://youtu.be/CraEx49B6ww
-## 54 https://youtu.be/RErrBEwxrRo
-## 55 https://youtu.be/CKuJvm71zPM
-## 56 https://youtu.be/uZMAlbgjJEM
-## 57 https://youtu.be/slq9Z1bbO8M
+## 49 https://youtu.be/5CDu1hNwQQk sprimgBoot 쇼핑몰구현 49 저장된 배송지 목록 확인하기
+## 50 https://youtu.be/cC7G8qX61aA sprimgBoot 쇼핑몰구현 50 저장된 배송지 목록 확인화면에 전달하기위한 DTO구성하고 페이지 디자인
+## 51 https://youtu.be/IqnarjswWEY sprimgBoot 쇼핑몰구현 51 저장된 배송지 목록 페이지 디자인HTML+CSS
+## 52 https://youtu.be/Tl7mmrWnX1A sprimgBoot 쇼핑몰구현 52 기본 배송지 화면 구현 디자인HTML+CSS
+## 53 https://youtu.be/CraEx49B6ww sprimgBoot 쇼핑몰구현 53 배송지 정보 탭메뉴로 구성하고 디자인HTML+CSS
+## 54 https://youtu.be/RErrBEwxrRo sprimgBoot 쇼핑몰구현 54 결제API를 위한 Iamport 이용하기 회원가입 및 설정
+## 55 https://youtu.be/CKuJvm71zPM sprimgBoot 쇼핑몰구현 55 결제API를 위한 Iamport 이용하기2 스크립트 작성
+## 56 https://youtu.be/uZMAlbgjJEM sprimgBoot 쇼핑몰구현 56 결제정보반영하기위한 설계
+## 57 https://youtu.be/slq9Z1bbO8M sprimgBoot 쇼핑몰구현 57 결제정보반영 js로 정보확인하고 iamport에 전달하여 결제하기
 ## 58 
 ## 59 
 ## 60 
